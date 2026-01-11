@@ -5,6 +5,8 @@
 Bu proje, Sanaa Lammat (Öğrenci Numarası: 22360859226) tarafından **Bilgisayar Mühendisliği Giriş** dersi için geliştirilmiş bir öğrenme projesidir.
 
 Proje, farklı veri türleri için Run-Length Encoding (RLE) sıkıştırma algoritmasını uygulayan kullanıcı dostu bir arayüz sunmaktadır.
+      ## Youtube linki :
+      https://youtu.be/7AodeZKXHCs
 
 ## Projenin Amacı
 
